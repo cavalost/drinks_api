@@ -1,19 +1,17 @@
 {
   "name": "drinks_api",
   "author": "Claudina Avalos<claudina.avalos@opendeusto.es>",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "scripts": {
     "start": "node .",
     "dev-start": "nodemon .",
     "lint": "eslint index.js ./src/**/**"
   },
   "dependencies": {
-    "axios": "^0.19.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "http-errors": "^1.8.0",
-    "lodash": "^4.17.19",
     "mongodb": "^3.5.9"
   },
   "devDependencies": {
