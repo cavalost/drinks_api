@@ -29,5 +29,5 @@ npm run start
 
 ### Project description
 
-This server fetch the events that we stored in our DB using the
-[cron job](https://github.com/cavalost/drinks_cron) uploaded in PipeDream
+This server fetches the events that we stored in our DB using the
+[cron job](https://github.com/cavalost/drinks_cron) uploaded on PipeDream
